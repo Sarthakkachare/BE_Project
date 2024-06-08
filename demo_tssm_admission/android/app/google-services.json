@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878293117994",
+    "project_id": "tssm-99dd9",
+    "storage_bucket": "tssm-99dd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878293117994:android:82b9c5cbf582bbd5b92753",
+        "android_client_info": {
+          "package_name": "com.example.demo_tssm_admission"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7gHP0brBXbK3iOUW-J6B-aHNpqOGBrRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
